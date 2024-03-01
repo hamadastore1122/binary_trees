@@ -20,3 +20,4 @@ int main(void)
         return (1);
     binary_tree_print(tree);
     return (0);
+}
